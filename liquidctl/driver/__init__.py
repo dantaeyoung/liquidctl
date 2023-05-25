@@ -23,10 +23,6 @@ import liquidctl.driver.asetek
 import liquidctl.driver.coolit
 import liquidctl.driver.coolit_platinum
 import liquidctl.driver.corsair_hid_psu
-import liquidctl.driver.kraken_two
-import liquidctl.driver.kraken_gen4
-import liquidctl.driver.nzxt_smart_device
-import liquidctl.driver.seasonic
 
 from liquidctl.driver.base import BaseBus, find_all_subclasses
 
